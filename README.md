@@ -29,7 +29,7 @@ Website Developer from Jakarta, Indonesia
 <br />
 <br />
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kev2Cod&theme=tokyonight&show_icons=true))](https://github.com/Kev2Cod/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kev2Cod&theme=tokyonight&show_icons=true)](https://github.com/Kev2Cod/github-readme-stats)
 
 
 
